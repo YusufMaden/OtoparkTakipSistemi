@@ -1,2 +1,1 @@
-# OtoparkTakipSistemi
-Otopark yönetim sistemi
+
